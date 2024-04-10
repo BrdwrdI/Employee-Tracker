@@ -2,11 +2,11 @@
 
 ## Description
 
-
+I endevored to further my understanding of SQL with the undertaking of this project. Throughout the process I became more knowledgable on establishing a sql database and the ways in which to seed it.
 
 ## Installation
 
-
+Simply code this repository to yor computer then run 'npm install' within the CLI.
 
 ## Usage
 
